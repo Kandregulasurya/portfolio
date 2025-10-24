@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.3851cba4.css",
+    "main.js": "/portfolio/static/js/main.64c2e1b7.js",
+    "static/media/web development.png": "/portfolio/static/media/web development.c60df8a7dcbd05761402.png",
+    "static/media/html.png": "/portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/py-basics.png": "/portfolio/static/media/py-basics.29f6f143def6cdddf4f0.png",
+    "static/media/css.png": "/portfolio/static/media/css.618a31ccb5b6ac944f75.png",
+    "static/media/js.png": "/portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/suryakandregula1.jpg": "/portfolio/static/media/suryakandregula1.46fb99c131126161292f.jpg",
+    "static/media/library.png": "/portfolio/static/media/library.692a7129afe9c5d20113.png",
+    "static/media/social.png": "/portfolio/static/media/social.985a7327fc7347ebdba0.png",
+    "static/media/python.png": "/portfolio/static/media/python.07a98139a3638f2a224b.png",
+    "static/media/css-3.png": "/portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.268c4375260420e8d982.png",
+    "index.html": "/portfolio/index.html",
+    "main.3851cba4.css.map": "/portfolio/static/css/main.3851cba4.css.map",
+    "main.64c2e1b7.js.map": "/portfolio/static/js/main.64c2e1b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3851cba4.css",
+    "static/js/main.64c2e1b7.js"
+  ]
+}
