@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="footer-container">
-        <h2 className="footer-logo">SURYA.DEV</h2>
+        <h2 className="footer-logo">SURYA KANDREGULA </h2>
         <p className="footer-text">
           Passionate Frontend Developer | Building responsive, modern & user-friendly websites.
         </p>
@@ -29,7 +29,7 @@ function Footer() {
             <i class="fa-brands fa-whatsapp" title="whatsapp"></i>
           </a>
           <a href="https://x.com/suryaprince_059?t=nlCYW2mvIOcKZuXgMXmsAg&s=09" target="_blank" rel="noopener noreferrer">
-            <i class="fa-brands fa-twitter" title="hello"></i>
+            <i class="fa-brands fa-twitter" title="X"></i>
           </a>
         </div>
       </div>

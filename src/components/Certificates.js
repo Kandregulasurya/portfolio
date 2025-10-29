@@ -4,8 +4,11 @@ import '../App.css';
 import html from "../certificate_img/html.png";
 import css3 from "../certificate_img/css.png";
 import js from "../certificate_img/js.png";
+import react from "../certificate_img/reactjs.png";
 import web from "../certificate_img/web development.png";
 import python from "../certificate_img/py-basics.png";
+import problem_solving from "../certificate_img/problem solving.png";
+import sql from "../certificate_img/sql basics.png";
 
 const certificates = [
   {
@@ -33,7 +36,7 @@ const certificates = [
     title: "REACT.JS",
     platform: "Infosys Springboard",
     year: "2025",
-    image: "https://via.placeholder.com/300x200",
+    image: react,
     link: "https://www.udemy.com/certificate-link",
   },
   {
@@ -49,6 +52,20 @@ const certificates = [
     year: "2024",
     image: web,
     link: "https://drive.google.com/file/d/1PZjkucxRUPTzCmwT_ijHuhF46sbebg89/view?usp=drivesdk",
+  },
+  {
+    title: "SQL for Beginner",
+    platform: "HackerRank",
+    year: "2025",
+    image: sql,
+    link: "https://drive.google.com/file/d/1BNHYC4NhckpCYI2qLrs-MZBIs3sncnLB/view?usp=drivesdk",
+  },
+  {
+    title: "Problem_Solving",
+    platform: "HackerRank",
+    year: "2025",
+    image: problem_solving,
+    link: "https://drive.google.com/file/d/1h_3kSqL-ixWZKLryWTEKWd0OO5WbEtDk/view?usp=drivesdk",
   }
 ];
 

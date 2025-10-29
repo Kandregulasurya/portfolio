@@ -84,7 +84,7 @@ body{
     color:var(--primary-color);
 }
 .detials >h1 >span{
-color: orange;
+color: rgb(213, 139, 2);
 position: relative;
 display: inline-block;
 vertical-align: bottom;
@@ -102,6 +102,9 @@ height: 1.25em;
     75%{transform: translateY(-300%);}
     100%{transform: translateY(-400%);}
     
+}
+.btn{
+  border: none;
 }
 .btn button{
   padding: 8px 15px;

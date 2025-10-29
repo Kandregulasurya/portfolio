@@ -6,7 +6,7 @@ export default function Home() {
     <div class="block">
       <div class="container" id='home'>
         <div class="detials">
-          <h1>Hi,I'AM
+          <h1>Hey..👋,I'AM
             <span>
               <span> DEVELOPER</span>
               <span> CODER</span>
@@ -17,8 +17,8 @@ export default function Home() {
           </h1>
           <h1>I Build Responsive & Modern Websites.</h1>
           <div class="btn">
-            <a href='#contact' ><button>Contact</button></a>
-            <button>Download CV</button>
+            <a href='#contact'><button>Contact</button></a>
+            <a href='https://drive.google.com/file/d/1kkasOknOJBkSPTm-ee7rw1H3pdZmSXoE/view?usp=drivesdk' target="_blank" rel="noopener noreferrer"><button>Open CV</button></a>
           </div>
         </div>
         <div class="img_container">

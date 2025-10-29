@@ -15,7 +15,7 @@ export default function Navbar() {
   }
   return (
     <navbar class="nav">
-        <div class="name"><h1>SURYA.DEV</h1></div>
+        <div class="name"><h1>surya_kandregula</h1></div>
         <div class="navlinks">
           <a href="#home">Home</a>
           <a href="#about">About</a>
